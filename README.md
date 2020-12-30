@@ -5,7 +5,7 @@
 
 [[Zwntana]]
 [[[index]]]
-       template = zwntana.html.tmpl 
+  template = zwntana.html.tmpl 
        
 εκτελουμε στο τερματικο  sudo /etc/init.d/weewx reload
 
